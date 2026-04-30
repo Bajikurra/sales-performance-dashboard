@@ -1,0 +1,47 @@
+order_id,order_date,customer_id,customer_name,region,city,product_name,category,unit_price,discount_pct,selling_price,quantity,revenue,payment_method,order_status,month,month_name
+ORD001,2024-01-05,C010,Anjali Mehta,North,Chandigarh,Bluetooth Speaker,Electronics,2199,0,2199.0,3,6597.0,Credit Card,Returned,1,Jan
+ORD002,2024-01-12,C014,Divya Joshi,West,Pune,Running Shoes,Footwear,2499,15,2124.15,1,2124.15,COD,Delivered,1,Jan
+ORD003,2024-01-20,C002,Sneha Patel,South,Chennai,Wireless Earbuds,Electronics,1299,0,1299.0,2,2598.0,Net Banking,Delivered,1,Jan
+ORD004,2024-01-28,C007,Rahul Gupta,West,Pune,Laptop Stand,Electronics,1599,0,1599.0,2,3198.0,Debit Card,Delivered,1,Jan
+ORD005,2024-02-03,C003,Arjun Singh,West,Mumbai,Bluetooth Speaker,Electronics,2199,10,1979.1,3,5937.3,UPI,Cancelled,2,Feb
+ORD006,2024-02-11,C001,Ravi Kumar,South,Bangalore,Yoga Mat,Fitness,799,15,679.15,2,1358.3,Debit Card,Delivered,2,Feb
+ORD007,2024-02-19,C006,Deepa Nair,West,Pune,Bluetooth Speaker,Electronics,2199,15,1869.15,1,1869.15,Debit Card,Cancelled,2,Feb
+ORD008,2024-02-25,C003,Arjun Singh,South,Chennai,Yoga Mat,Fitness,799,0,799.0,1,799.0,COD,Delivered,2,Feb
+ORD009,2024-03-02,C014,Divya Joshi,North,Delhi,Running Shoes,Footwear,2499,15,2124.15,2,4248.3,Debit Card,Cancelled,3,Mar
+ORD010,2024-03-10,C003,Arjun Singh,North,Delhi,Bluetooth Speaker,Electronics,2199,0,2199.0,1,2199.0,Debit Card,Returned,3,Mar
+ORD011,2024-03-18,C007,Rahul Gupta,West,Mumbai,Laptop Stand,Electronics,1599,15,1359.15,1,1359.15,Net Banking,Delivered,3,Mar
+ORD012,2024-03-26,C014,Divya Joshi,North,Chandigarh,Bluetooth Speaker,Electronics,2199,0,2199.0,2,4398.0,Credit Card,Delivered,3,Mar
+ORD013,2024-04-04,C008,Meera Iyer,East,Patna,Backpack,Bags,1899,0,1899.0,1,1899.0,Net Banking,Delivered,4,Apr
+ORD014,2024-04-13,C006,Deepa Nair,East,Kolkata,Smartphone Case,Accessories,299,10,269.1,2,538.2,COD,Cancelled,4,Apr
+ORD015,2024-04-21,C003,Arjun Singh,West,Pune,Yoga Mat,Fitness,799,15,679.15,3,2037.45,Debit Card,Cancelled,4,Apr
+ORD016,2024-04-29,C008,Meera Iyer,West,Mumbai,Running Shoes,Footwear,2499,10,2249.1,2,4498.2,COD,Delivered,4,Apr
+ORD017,2024-05-06,C007,Rahul Gupta,East,Patna,Bluetooth Speaker,Electronics,2199,0,2199.0,3,6597.0,Net Banking,Returned,5,May
+ORD018,2024-05-14,C002,Sneha Patel,West,Mumbai,Wireless Earbuds,Electronics,1299,15,1104.15,2,2208.3,UPI,Delivered,5,May
+ORD019,2024-05-22,C006,Deepa Nair,North,Delhi,Smartphone Case,Accessories,299,10,269.1,3,807.3,COD,Delivered,5,May
+ORD020,2024-05-30,C008,Meera Iyer,West,Pune,Water Bottle,Lifestyle,399,5,379.05,3,1137.15,COD,Returned,5,May
+ORD021,2024-06-07,C006,Deepa Nair,South,Bangalore,Water Bottle,Lifestyle,399,0,399.0,3,1197.0,Credit Card,Cancelled,6,Jun
+ORD022,2024-06-15,C010,Anjali Mehta,West,Mumbai,Smartphone Case,Accessories,299,10,269.1,2,538.2,Credit Card,Delivered,6,Jun
+ORD023,2024-06-23,C015,Sachin Pillai,North,Delhi,Desk Lamp,Home,1099,0,1099.0,3,3297.0,Debit Card,Delivered,6,Jun
+ORD024,2024-06-30,C011,Kiran Das,West,Mumbai,Water Bottle,Lifestyle,399,10,359.1,3,1077.3,Credit Card,Delivered,6,Jun
+ORD025,2024-07-08,C003,Arjun Singh,North,Delhi,Backpack,Bags,1899,0,1899.0,1,1899.0,Debit Card,Returned,7,Jul
+ORD026,2024-07-16,C014,Divya Joshi,West,Pune,Notebook Set,Stationery,249,5,236.55,1,236.55,Net Banking,Delivered,7,Jul
+ORD027,2024-07-24,C002,Sneha Patel,North,Delhi,Backpack,Bags,1899,10,1709.1,3,5127.3,COD,Delivered,7,Jul
+ORD028,2024-08-01,C002,Sneha Patel,West,Mumbai,Wireless Earbuds,Electronics,1299,5,1234.05,2,2468.1,Debit Card,Returned,8,Aug
+ORD029,2024-08-09,C007,Rahul Gupta,South,Chennai,Bluetooth Speaker,Electronics,2199,5,2089.05,3,6267.15,Net Banking,Returned,8,Aug
+ORD030,2024-08-17,C009,Vikram Shah,East,Patna,Bluetooth Speaker,Electronics,2199,5,2089.05,3,6267.15,Debit Card,Delivered,8,Aug
+ORD031,2024-08-25,C008,Meera Iyer,West,Pune,Desk Lamp,Home,1099,0,1099.0,2,2198.0,Net Banking,Delivered,8,Aug
+ORD032,2024-09-03,C013,Gaurav Verma,West,Mumbai,Desk Lamp,Home,1099,15,934.15,2,1868.3,UPI,Cancelled,9,Sep
+ORD033,2024-09-11,C014,Divya Joshi,East,Kolkata,Desk Lamp,Home,1099,5,1044.05,2,2088.1,UPI,Returned,9,Sep
+ORD034,2024-09-19,C010,Anjali Mehta,East,Patna,Desk Lamp,Home,1099,0,1099.0,1,1099.0,Credit Card,Delivered,9,Sep
+ORD035,2024-09-27,C002,Sneha Patel,North,Delhi,Desk Lamp,Home,1099,0,1099.0,3,3297.0,COD,Delivered,9,Sep
+ORD036,2024-10-05,C010,Anjali Mehta,West,Mumbai,Backpack,Bags,1899,5,1804.05,1,1804.05,Net Banking,Delivered,10,Oct
+ORD037,2024-10-13,C009,Vikram Shah,East,Kolkata,Desk Lamp,Home,1099,0,1099.0,1,1099.0,Net Banking,Delivered,10,Oct
+ORD038,2024-10-21,C014,Divya Joshi,West,Pune,Desk Lamp,Home,1099,0,1099.0,3,3297.0,Credit Card,Delivered,10,Oct
+ORD039,2024-10-29,C010,Anjali Mehta,East,Kolkata,Wireless Earbuds,Electronics,1299,15,1104.15,3,3312.45,Net Banking,Delivered,10,Oct
+ORD040,2024-11-06,C002,Sneha Patel,West,Pune,Desk Lamp,Home,1099,0,1099.0,2,2198.0,Credit Card,Returned,11,Nov
+ORD041,2024-11-14,C012,Neha Rao,West,Pune,Bluetooth Speaker,Electronics,2199,0,2199.0,3,6597.0,Debit Card,Returned,11,Nov
+ORD042,2024-11-22,C014,Divya Joshi,East,Patna,Backpack,Bags,1899,0,1899.0,1,1899.0,COD,Delivered,11,Nov
+ORD043,2024-11-30,C001,Ravi Kumar,South,Bangalore,Desk Lamp,Home,1099,5,1044.05,2,2088.1,Net Banking,Returned,11,Nov
+ORD044,2024-12-08,C001,Ravi Kumar,North,Delhi,Laptop Stand,Electronics,1599,0,1599.0,1,1599.0,Net Banking,Delivered,12,Dec
+ORD045,2024-12-16,C002,Sneha Patel,East,Kolkata,Laptop Stand,Electronics,1599,10,1439.1,1,1439.1,Net Banking,Returned,12,Dec
+ORD046,2024-12-24,C002,Sneha Patel,East,Kolkata,Bluetooth Speaker,Electronics,2199,0,2199.0,1,2199.0,COD,Returned,12,Dec
